@@ -1,0 +1,105 @@
+#map{
+  height: 100%;
+}
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+#sidebar
+{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    width:25%;
+    height:100%;
+    background: #78EB8A;
+    float: left;
+}
+
+#Logo
+{
+    position: absolute;
+    left: 2.5%;
+    right: 0%;
+    top: 2.5%;
+    bottom: 0%;
+    width:20%;
+    height:20%;
+    background: #43B3E3;
+    float: left;
+}
+
+#LogoTXT
+{
+   position: absolute;
+    left: 7%;
+    right: 0%;
+    top:1%;
+    bottom: 0%;
+    width:20%;
+    height:20%;
+    font-family:sans-serif;
+    font-size: 50;
+}
+
+#SearchBar1
+{
+    position: absolute;
+    left: 2.5%;
+    right: 0%;
+    top: 25%;
+    bottom: 0%;
+    width:20%;
+    height:6%;
+    background: #BCB9B9;
+}
+
+#Input1
+{
+    position: absolute;
+    left: 2.5%;
+    right: 0%;
+    top: 25%;
+    bottom: 0%;
+    width:20%;
+    height:6%; 
+    font-family:sans-serif;
+}
+
+#SearchBar2
+{
+    position: absolute;
+    left: 2.5%;
+    right: 0%;
+    top: 35%;
+    bottom: 0%;
+    width:20%;
+    height:6%;
+    background: #BCB9B9;
+}
+
+#Input2
+{
+    position: absolute;
+    left: 2.5%;
+    right: 0%;
+    top: 35%;
+    bottom: 0%;
+    width:20%;
+    height:6%;
+    font-family:sans-serif;
+}
+#submit
+{
+    position: absolute;
+    left: 7%;
+    right: 0%;
+    top: 45%;
+    bottom: 0%;
+    width:10%;
+    height:10%;
+    font-family:sans-serif;
+}
