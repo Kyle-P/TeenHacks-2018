@@ -7,4 +7,4 @@ Our hack aims to improve accessibility for people with disabilities (especially 
 Goals: To generate routes on maps that take more topography features into account.
 
 Bugs:
-[ ] Our main bug was not found within the time of the hackathon. Unfortunately, when attempting to bring together the JavaScript and the UI, the path was not being displayed. When run separately, however, the pathfinding algorithm appeared to work fine.
+- [ ] Our main bug was not found within the time of the hackathon. Unfortunately, when attempting to bring together the JavaScript and the UI, the path was not being displayed. When run separately, however, the pathfinding algorithm appeared to work fine.
